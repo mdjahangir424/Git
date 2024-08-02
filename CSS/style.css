@@ -1,0 +1,141 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+body{
+ background-image: url(/img/bg.webp);
+ background-attachment: fixed;
+}
+/* .parent{
+ background: #f74;
+ color: #454652;
+ margin: 20px auto;
+ width: 92%;
+ padding: 2%;
+ max-width: 1140px;
+ min-width: 600px;
+} */
+/* .child{
+ background: #f7856f;
+ margin-top: 20px;
+ margin-left: 20px;
+ padding-left: 20px;
+ padding-top: 20px;
+} */
+ /* .child{
+  background: #f7469f;
+  margin: 20px 30px;
+  padding-left: 30px;
+  color: #fff;
+ } */
+/* h1{
+ text-align: center;
+ border-width: 10px;
+ border-style: none;
+ border-style: groove;
+ border-color: cadetblue;
+ border: 10px solid blue;
+ border-radius: 15px;
+ border-top: 5px solid greenyellow;
+ border-top-style: dashed;
+ border-left-style: double;
+ border-bottom-style: dotted;
+} */
+/* css comment */
+/* h1 => Selector
+color => Property 
+Red   => Value 
+*     => Universal Selector
+.  => class Selector
+#  => Id Selector
+,  => Group
+*/
+/* h1{
+  font-size: 60px; 
+ margin: 10px;     
+ color: burlywood;
+}
+p{
+ color: blueviolet;
+ font-size: 18px;
+} */
+/* div{
+ width: 200px;
+ height: 200px;
+ background: aqua;
+ margin-bottom: 20px;
+}
+div p{
+ color: blue;
+}
+.text-md{
+ color: purple;
+ text-align: right;
+
+}
+.first-div{
+ background: blue;
+}
+.first-div p{
+ color: wheat;
+}
+.first_div{
+ margin: 0;
+}
+#Big_div, 
+#Big_div_2{
+ width: 400px;
+} */
+ /* h1{
+  font-size: 60px; 
+ margin: 10px;     
+ color: burlywood;
+}
+p{
+ color: blueviolet;
+ font-size: 18px;
+} */
+/* Color */
+/* h2{
+ font-size: 50px;
+ font-family: Arial, Helvetica, sans-serif;
+ color: aqua;
+ color: red;
+ color: #000000;
+ color: #0000ff;
+ color: #00ff00;
+ color: #ff0000;
+ color: rgb(red, green, blue);
+ color: rgb(255, 255, 255);
+ color: rgb(0, 255, 255);
+ color: rgb(0, 0, 255);
+ color: rgba(0, 0, 255, 0.3);
+} */
+
+
+/* Fixed_Width */
+/* .parent{
+ background: #574b90;
+ color: #fff;
+ width: 300px;
+ margin: 10px;
+ padding: 20px;
+ border: 10px solid turquoise;
+ float: left;
+} */
+
+
+h1{
+  text-align: center;
+  padding: 2%;
+}
+ /* flow_width */
+.parent{
+ background: #574b90;
+ color: #fff;
+ width: 24%;
+ margin: 1%;
+ padding: 2%;
+ border: 0.5em solid turquoise;
+ float: left;
+}
